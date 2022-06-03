@@ -24,7 +24,7 @@ person2 ={
     },
     devices:["phone","pc","guns"]
 };
-console.log(person2.fname +" "+ person2.lname + " is a " + person2.job.oc);
+console.log(person2.fullname()+" is a " + person2.job.oc);
 
 
 

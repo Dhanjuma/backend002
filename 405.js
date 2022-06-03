@@ -1,9 +1,11 @@
 // let guy = {
 //     fname:"Danjuma",
-//     age:"20",
+//     age:"10",
 
 // }
-// console.log(guy["age"])
+
+
+// // console.log(guy["age"])
 // let greeting;
 // if (guy.age>=18) {greeting = "Hi guy, you are old enough"}
 // else {greeting = "Hi guy, sorry but you are not old enough"};
